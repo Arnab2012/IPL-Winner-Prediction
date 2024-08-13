@@ -1,4 +1,4 @@
-# IPL-Winner-Prediction
+# IPL Winner Prediction
 # Website Link--> 
 https://arnab2012-ipl-winner-prediction-app-1cnluh.streamlit.app/
 # Overview-->
